@@ -1,0 +1,11 @@
+Django==1.6.6
+South==0.8.4
+distribute
+gunicorn==18.0
+selenium
+django-secure
+django-braces
+django-simple-history
+pep8
+pyflakes
+
