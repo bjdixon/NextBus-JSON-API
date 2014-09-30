@@ -8,4 +8,5 @@ django-braces
 django-simple-history
 pep8
 pyflakes
+BeautifulSoup4
 
