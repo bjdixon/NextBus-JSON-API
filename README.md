@@ -20,5 +20,9 @@ Returns a list of stops for {agency_id} on route {route_number}
 
 **/api/{agency_id}/{route_number}/{stop_id}/**
 
-Returns a list of predicted arrivals
+Returns a list of predicted arrivals for {agency_id} on route {route_number} at stop {stop_id}
+
+-------------
+
+This project consumes the public xml feed provided by http://cts.cubic.com/en-us/solutions/real-timepassengerinformation/nextbus,inc.aspx which is subject to data usage limits
 
